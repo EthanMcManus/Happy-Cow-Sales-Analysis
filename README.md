@@ -12,17 +12,21 @@ Happy Cow Ice Cream, originally established by a pair of vegan entrepreneurs, ha
 
 ## Data Sources
 
-- **Happy Cow Sales Analysis.docx**  
-  Contains the project background, standard assumptions, limitations, detailed sales analysis, and conclusions.
+- [**Happy Cow Sales Analysis.docx**](Happy_Cow_Sales_Analysis.docx)
 
-- **Happy Cow Sales Analysis Reference Material (Completed).xlsx**  
-  Final, cleaned dataset with all relevant calculations and visualizations.
+    Contains the project background, standard assumptions, limitations, detailed sales analysis, and conclusions.
 
-- **Happy Cow Sales Analysis Reference Material (Raw).xlsx**  
-  Original dataset with daily/monthly sales data before cleaning or restructuring.
+- [**Happy Cow Sales Analysis Reference Material.xlsx**](Happy_Cow_Sales_Analysis_Reference_Material.xlsx)
 
-- **Happy Cow Ice Cream.pdf**  
-  Provides broader context on the company’s history, market positioning, customer segmentation, and retail operations at HKU, along with insights into competitive strategies and promotional events.
+    Final, cleaned dataset with all relevant calculations and visualizations.
+
+- [**Happy Cow Sales (Raw).xlsx**](Happy_Cow_Sales_Raw_File.xlsx)
+
+    Original dataset with daily/monthly sales data before cleaning or restructuring.
+
+- [**Happy Cow Ice Cream.pdf**](Happy_Cow_Ice_Cream.pdf) 
+
+    Provides broader context on the company’s history, market positioning, customer segmentation, and retail operations at HKU, along with insights into competitive strategies and promotional events.
 
 ## Background & Objectives
 
@@ -60,11 +64,19 @@ The analysis was initiated after it became clear that the existing data required
 - **Top Performing Flavors:**  
   Salted Caramel emerged as the top seller (~\$38,988 over 6 months), followed by Mango, Chocolate, Mint Chocolate, Pure Coconut, and Strawberry. These flavors, with average revenues well above the overall mean (around \$14,142 per flavor), are recommended to remain as regular offerings.
 
+  ![image](https://github.com/user-attachments/assets/c959dd42-b2b2-445e-9b4b-83f09deec316)
+
 - **Seasonal Adjustments:**  
   - **Summer Flavors:**  
     Mango and Pure Coconut consistently perform well during the summer months. Other flavors (e.g., Lime Coconut, Pina Colada) might be more successful as limited-time offerings to spark interest.
+
+   ![image](https://github.com/user-attachments/assets/02e39251-027e-4d14-b22b-c4699dd48a13)
+
   - **Winter Flavors:**  
     Certain flavors, such as Vanilla Bean, underperform in the summer and could be repositioned as winter offerings to drive demand during colder months.
+  
+  ![image](https://github.com/user-attachments/assets/b85e7615-d5a2-484f-b83b-22786bc993eb)
+
 
 ### Customer Segment Trends
 
@@ -74,6 +86,8 @@ The analysis was initiated after it became clear that the existing data required
   Sales peak in June and July, aligning with the gap between the spring and summer semesters.
 - **Tourists:**  
   Although a smaller segment, tourist traffic can provide additional off-peak revenue opportunities and justify seasonal promotions.
+  
+(![image](https://github.com/user-attachments/assets/5ed22ed0-d9f2-45bd-b71f-49b2ec1d7161)
 
 ### Additional Insights (from the PDF)
 
