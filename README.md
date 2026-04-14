@@ -1,14 +1,11 @@
 # Happy Cow Sales Analysis
 
-This project presents a comprehensive analysis of sales data from **Happy Cow Ice Cream’s** retail outlet on the University of Hong Kong (HKU) campus. The analysis was conducted using data extracted from multiple sources including a Word document (project brief and detailed analysis), an Excel file containing daily and monthly sales figures, and a PDF providing additional context and background on the company’s operations and market environment.
+## Project Summary
+Analyzed retail sales data to identify customer trends, product performance, and seasonal patterns. Found that top flavors and customer segments varied by season, and identified opportunities to improve inventory and promotional strategies.
 
 ## Overview
 
-Happy Cow Ice Cream, originally established by a pair of vegan entrepreneurs, has grown into a well-recognized brand in Hong Kong. Under the leadership of CEO Mary Schroeder, the company shifted its focus toward expanding its market share among local consumers. This analysis was undertaken to:
-- Clean and restructure the raw sales data.
-- Examine customer trends by segment (Students, Staff, and Tourists).
-- Analyze flavor performance and seasonal trends.
-- Generate actionable insights to support inventory management, promotional strategies, and future forecasting.
+This project analyzes retail sales data from a campus-based ice cream store to understand customer behavior, product performance, and seasonal trends. The analysis involved cleaning and restructuring raw sales data and using Excel to explore patterns across customer segments, product types, and time periods.
 
 ## Data Sources
 
